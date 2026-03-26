@@ -1,1 +1,3 @@
-# manufacturing-maintenance-intelligence-4939
+# Project Repository
+
+This is the initial README file for the project.
